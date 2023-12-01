@@ -145,6 +145,7 @@ main{
 #search-icon{
     padding: 13px;
     height: 4vmax;
+    overflow-y: hidden;
     border-right: 3px solid white;
 }
 #search{
@@ -368,8 +369,8 @@ main{
 footer{
     height: 5vmax;
     width: 100%;
-    /* position: absolute;
-    bottom: 0; */
+    position: absolute;
+    bottom: 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -377,6 +378,7 @@ footer{
     background-color: #FE724C;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5vmax;
+    text-align: center;
     color: #ffffff;
 }
 
