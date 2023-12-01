@@ -380,7 +380,7 @@ footer{
     align-items: center;
     background-color: #FE724C;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.5vmax;
+    font-size: 1.3vmax;
     text-align: center;
     color: #ffffff;
 }
@@ -422,6 +422,9 @@ footer{
     .welcome{
         margin: auto;
         width: 100%;
+    }
+    footer{
+
     }
   }
   
