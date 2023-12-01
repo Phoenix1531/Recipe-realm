@@ -61,7 +61,7 @@ main{
     display: flex;
     /* justify-content: center;
     align-items: center; */
-    width: 100vmax;
+    width: 100%;
     height: 94vmin;
     overflow-y: hidden;
 }
