@@ -59,8 +59,8 @@ nav img{
 
 main{
     display: flex;
-    /* justify-content: center;
-    align-items: center; */
+    justify-content: center;
+    align-items: center;
     width: 100%;
     height: 94vmin;
     overflow-y: hidden;
