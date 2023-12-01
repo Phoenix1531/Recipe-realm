@@ -14,6 +14,7 @@
 }
 body{
     overflow-x: hidden;
+    height: 100vh;
 }
 /* --------Navbar--------- */
 nav{
@@ -369,8 +370,8 @@ main{
 footer{
     height: 5vmax;
     width: 100%;
-    position: absolute;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
     display: flex;
     flex-direction: column;
     justify-content: center;
